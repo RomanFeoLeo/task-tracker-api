@@ -1,2 +1,2 @@
 # task-tracker-api
-REST API для управления задачами на ASP.NET Core и PostgreSQL
+Учебный проект: REST API для управления задачами на ASP.NET Core и PostgreSQL
